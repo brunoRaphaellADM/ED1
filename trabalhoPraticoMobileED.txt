@@ -1,0 +1,28 @@
+Trabalho Prático 01 - MobileED 1.0 
+
+a) Ler uma lista de Apps disponível em um arquivo texto. Estas informações dever 
+estar disponíveis no MobileED através do App StoreED; Comentários: Implenetar uma função que leia um arquivo texto 
+e carregue as informações para um vetor de estrutura do tipo App. O tipo App é uma strutura que possui no mínimo dois
+ elementos, um do tipo char e outro do tipo int. 
+
+b) Permitir consultar Apps disponíveis na StoreED; Comentários:
+ Implenetar uma função que permita consultar elementos de um vetor; 
+
+c) Permitir selecionar um App do StoreED para
+ "instalação". Nesta ação, o App selecionado deve ser exibido na Área de Trabalho do MobileED. Caso a área de trabalho já
+ esteja completa, o App selecionado para "instalação" deve ser registrado apenas na lista dos Apps "instalados" no MobileED. 
+As informações sobre os Apps instalados devem ser acessadas através do App MeusAppsED; Comentários: Implenetar uma função que
+ copie um elemento de um vetor para outro; Implementar uma função que atualize elementos de uma matriz;
+
+ d) Permitir "executar" 
+um App "instalado" no MobileED. A lista de Apps em execução deve ser acessada através da App AppRumED; Comentários: Implementar 
+uma função que copie um elemento de uma matriz para um vetor; Implementar uma função que liste os elementos de um vetor;
+
+ f) Permitir parar a "execução" de um App. Nesta ação o usuário deverá consultar a listas de App em execução através do AppRumED 
+e selecionar um App para parar a execução. Comentários: Implenetar uma função que permita consultar os elementos de um vetor; 
+Implenetar uma função que permita excluir elementos de um vetor; 
+
+g) Permitir selecionar um App do MeusAppsED para "desinstalação". 
+Nesta ação, caso o App selecionado esteja ná na Área de Trabalho do MobileED seu "ícone" deve ser removido. Comentários: Implenetar
+uma função que permita consultar os elementos de um vetor; Implenetar uma função que permita excluir elementos de um vetor; 
+Implementar uma função que atualize elementos de uma matriz; h) Criatividade !!!

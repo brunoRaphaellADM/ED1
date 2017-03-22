@@ -1,0 +1,14 @@
+Banco_do_Brasil 23.89
+Instagram 23.72
+WhatsApp 33.05
+Clash_Of_Clans 66.30
+Clash_Royale 97.57
+Skype 35.96
+YouTube 20.54
+Netflix 23.47
+Messenger 56.14
+Musixmatch 12.42
+Spotify 27.92
+Waze 45.61
+Facebook 57.31
+League_of_Legends 80.56
